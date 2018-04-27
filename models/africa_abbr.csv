@@ -1,0 +1,56 @@
+Sub_Region,Abbr,Region
+Algeria,DZA,Northern_Africa
+Angola,AGO,Middle_Africa
+Benin,BEN,Western_Africa
+Botswana,BWA,Southern_Africa
+Burkina Faso,BFA,Western_Africa
+Burundi,BDI,Eastern_Africa
+Cameroon,CMR,Middle_Africa
+Canary Islands,0,Other
+Cape Verde,CPV,Western_Africa
+Central African Republic,CAF,Middle_Africa
+Chad,TCD,Middle_Africa
+Comores,COM,Other
+Congo (Republic/Brazzaville),COG,Middle_Africa
+Congo (Democratic Republic/Kinshasa),COD,Middle_Africa
+Djibouti,DJI,Eastern_Africa
+Egypt,EGY,Northern_Africa
+Equatorial Guinea,GNQ,Middle_Africa
+Eritrea,ERI,Eastern_Africa
+Ethiopia,ETH,Eastern_Africa
+Gabon,GAB,Middle_Africa
+Ghana,GHA,Western_Africa
+Guinea,GIN,Western_Africa
+Guinea-Bissau,GNB,Western_Africa
+Ivory Coast,CIV,Western_Africa
+Kenya,KEN,Eastern_Africa
+Lesotho,LSO,Southern_Africa
+Liberia,LBR,Western_Africa
+Libya,LBY,Northern_Africa
+Madagascar,MDG,Eastern_Africa
+Malawi,MWI,Eastern_Africa
+Mali,MLI,Western_Africa
+Mauritania,MRT,Western_Africa
+Mauritius,MUS,Eastern_Africa
+Morocco,MAR,Northern_Africa
+Mozambique,MOZ,Eastern_Africa
+Namibia,NAM,Southern_Africa
+Niger,NER,Western_Africa
+Nigeria,NGA,Western_Africa
+Rwanda,RWA,Eastern_Africa
+"Saint Helena, Ascension, and Tristan da Cunha",SHN,Other
+Sao Tome and Principe,STP,Middle_Africa
+Senegal and Gambia,SEN,Western_Africa
+Seychelles,SYC,Eastern_Africa
+Sierra Leone,SLE,Western_Africa
+Somalia,SOM,Eastern_Africa
+South Africa,ZAF,Southern_Africa
+South Sudan,SSD,Northern_Africa
+Sudan,SDN,Northern_Africa
+Swaziland,SWZ,Southern_Africa
+Tanzania,TZA,Eastern_Africa
+Togo,TGO,Western_Africa
+Tunisia,TUN,Northern_Africa
+Uganda,UGA,Eastern_Africa
+Zambia,ZMB,Eastern_Africa
+Zimbabwe,ZWE,Eastern_Africa
